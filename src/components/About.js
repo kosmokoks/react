@@ -7,7 +7,7 @@ export class About extends React.Component {
                 <div className="left-side">
                     <div className="about-content">
                         <h1>
-                            O mnie adssad
+                            O mnie
                          </h1>
                         <div className="about-text">
                             Ukończyłem studia pierwszego stopnia na AGH. Interesuje się programowaniem frontu od półtora roku. Języki, których używam to głównie HTML, CSS, JavaScript (JQuery).
