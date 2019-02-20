@@ -12,7 +12,7 @@ class App extends Component {
       <HashRouter>
         <React.Fragment>
           <Menu />
-          <Route path="/react" component={Home} />
+          <Route path="/" component={Home} />
           <Route path="/about" component={About} />
         </React.Fragment>
       </HashRouter>
