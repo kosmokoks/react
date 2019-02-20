@@ -83,7 +83,7 @@ class Menu extends React.Component {
                             <Link to="/about">O mnie</Link>
                         </li>
                         <li onClick={this.closeMenu}>
-                            <a href="#" onClick={this.handleModalContact}>Kontakt</a>
+                            <div onClick={this.handleModalContact}>Kontakt</div>
                         </li>
                     </ul>
                 </nav>
