@@ -80,7 +80,7 @@ class Menu extends React.Component {
                             <Link to="/react">Home</Link>
                         </li>
                         <li onClick={this.closeMenu}>
-                            <Link to="/about">About</Link>
+                            <Link to="react/about">About</Link>
                         </li>
                         <li onClick={this.closeMenu}>
                             <a href="#" onClick={this.handleModalContact}>Kontakt</a>
