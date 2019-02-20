@@ -22,7 +22,7 @@ export class About extends React.Component {
                             <div className="row">
                                 <div>
                                     <div class="freebie">
-                                        <img src={"/img/gampre.png"} />
+                                        <img src={"./img/gampre.png"} />
                                         <div>
                                             <h3><a href="https:/gampre.pl/">gampre.pl</a></h3>
                                             <p>Front-end</p>
@@ -32,7 +32,7 @@ export class About extends React.Component {
                                 </div>
                                 <div>
                                     <div class="freebie">
-                                        <img src={"/img/hypelegro.png"} />
+                                        <img src={"./img/hypelegro.png"} />
                                         <div>
                                             <h3><a href="https://www.hypelegro.pl/">hypelegro.pl</a></h3>
                                             <p>Front-end</p>
@@ -42,7 +42,7 @@ export class About extends React.Component {
                                 </div>
                                 <div>
                                     <div class="freebie">
-                                        <img src={"/img/rosebay.png"} />
+                                        <img src={"./img/rosebay.png"} />
                                         <div>
                                             <h3><a href="https://rosebay.pl/">rosebay.pl</a></h3>
                                             <p>Front-end</p>
@@ -52,7 +52,7 @@ export class About extends React.Component {
                                 </div>
                                 <div>
                                     <div class="freebie">
-                                        <img src={"/img/topic.png"} />
+                                        <img src={"./img/topic.png"} />
                                         <div>
                                             <h3><a href="#">topic</a></h3>
                                             <p>Front-end</p>
