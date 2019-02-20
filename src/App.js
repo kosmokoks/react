@@ -13,7 +13,7 @@ class App extends Component {
         <React.Fragment>
           <Menu />
           <Route path="/" component={Home} />
-          <Route path="react/#/about" component={About} />
+          <Route path="/#/about" component={About} />
         </React.Fragment>
       </HashRouter>
     );
