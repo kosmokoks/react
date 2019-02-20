@@ -77,7 +77,7 @@ class Menu extends React.Component {
                     </div>
                     <ul >
                         <li onClick={this.closeMenu}>
-                            <Link to="/">Home</Link>
+                            <Link to="/react">Home</Link>
                         </li>
                         <li onClick={this.closeMenu}>
                             <Link to="/about">About</Link>
