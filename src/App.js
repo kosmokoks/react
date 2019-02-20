@@ -12,7 +12,7 @@ class App extends Component {
       <BrowserRouter>
         <React.Fragment>
           <Menu />
-          <Route exact path="/react" component={Home} />
+          <Route path="/react" component={Home} />
           <Route path="/about" component={About} />
         </React.Fragment>
       </BrowserRouter>
