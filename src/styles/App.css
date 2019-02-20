@@ -84,9 +84,6 @@ a {
           .navigation > div > div > div form .form-group input:focus, .navigation > div > div > div form .form-group input:valid,
           .navigation > div > div > div form .form-group textarea:focus,
           .navigation > div > div > div form .form-group textarea:valid {
-            top: -10px;
-            font-size: 12px;
-            color: #959fa8;
             outline: none; }
             .navigation > div > div > div form .form-group input:focus + label, .navigation > div > div > div form .form-group input:valid + label,
             .navigation > div > div > div form .form-group textarea:focus + label,

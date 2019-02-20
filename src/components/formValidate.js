@@ -86,7 +86,7 @@ class FormValidate extends React.Component {
                 </div>
                 <div className='form-group'>
                     <input
-                        type="email"
+                        type="text"
                         value={this.state.email}
                         onChange={this.handleEmailChange}
                         onBlur={this.validateEmail}
