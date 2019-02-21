@@ -24,7 +24,7 @@ export class About extends React.Component {
                                     <div class="freebie">
                                         <img src={"/react/img/gampre.png"} />
                                         <div>
-                                            <h3><a href="https:/gampre.pl/">gampre.pl</a></h3>
+                                            <h3><a href="https://gampre.pl/">gampre.pl</a></h3>
                                             <p>Front-end</p>
                                         </div>
                                         <a href="https:/gampre.pl/" class="btn btn-more" target="_blank">Przejdź do strony</a>
